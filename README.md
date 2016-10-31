@@ -12,14 +12,14 @@ visit https://github.com/zokis/django-bootstrap-datetimepicker
 
 
 Install
--------------------------------
+--------------------------------
 
 * Run `pip install django-bootstrap3-datetimepicker`
 * Add `'bootstrap3_datetime'` to your `INSTALLED_APPS`
 
 
 Example
---------------------------------
+---------------------------------
 
 ###### forms.py
 	from bootstrap3_datetime.widgets import DateTimePicker
